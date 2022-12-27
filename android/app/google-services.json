@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795809177290",
+    "project_id": "app-a-thon-c9759",
+    "storage_bucket": "app-a-thon-c9759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795809177290:android:770c5b5ff660e3d17f1e33",
+        "android_client_info": {
+          "package_name": "com.example.app_a_thon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795809177290-hka9ts4vqb45vl2q2pmvki6dl2bpa520.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACK16psPaVKO05A1A7wluxVTshZekTG48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795809177290-hka9ts4vqb45vl2q2pmvki6dl2bpa520.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
